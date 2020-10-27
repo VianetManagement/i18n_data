@@ -145,7 +145,7 @@ SN;;Shona
 SD;;Sindhi
 SO;;Somali
 ST;;Sotho, Southern
-ES;;Spanish; Castilian
+ES;;Spanish
 SQ;;Albanian
 SC;;Sardinian
 SR;;Serbian
